@@ -5,7 +5,7 @@
 
 ### This is ✨ _special_ ✨repository of SoA-Lee.
 
-- 🌱 I’m currently learning Android, Kotlin, JavaScript, Machine-Learning, Network, and etc.
+- 🌱 I’m currently learning Android, Kotlin, JavaScript, Machine-Learning, Network, Cloud and etc.
 - 📫 How to reach me : llsa0927@naver.com
 - 😄 My Blog : https://withmoonlab.tistory.com/
 </br>
