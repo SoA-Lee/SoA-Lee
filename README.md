@@ -37,7 +37,7 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=llsa0927)](https://solved.ac/llsa0927/) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=llsa0927&theme=cold)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=llsa0927&theme=cold) -->
 
 
 
